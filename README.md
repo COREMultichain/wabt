@@ -350,4 +350,4 @@ $ out/clang/Debug/fuzz/wasm2wat_fuzz ...
 ```
 
 See the [libFuzzer documentation](https://llvm.org/docs/LibFuzzer.html) for
-more information about how to use this tool. 
+more information about how to use this tool.
